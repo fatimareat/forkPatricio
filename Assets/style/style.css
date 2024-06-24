@@ -1,7 +1,5 @@
 body {
-    background-image: url(../img/iris\ final.jpg);
-    background-repeat: no-repeat;
-    background-size: cover;
+    background-color: #a67b5b !important;
 }
 
 .h2 {
